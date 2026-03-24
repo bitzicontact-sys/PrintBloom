@@ -1,0 +1,32 @@
+Order ID Format - PB-MAR-XXXX-YYY (PB-MAR(month find)-XXXX(order number start 1 and continue not to reset monthly)- YYY(Unique Number number and Capital Letter)
+
+Make a popup message when you click on the WhatsApp icon. Put a default message on it. Put a button below that says send via WhatsApp.
+
+Changes to be made in the admin panel
+
+When you click on the arrow on the All-time revenue and other items in the dashboard, you should go to the relevant page and everything should be in a way that you can see everything in detail. The report of all items should be available in the required ranges and can be downloaded as pdf in weekly, monthly, and annual terms.
+
+In addition to the status of all orders, an invoice should be attached in a way that can be updated. If necessary, an invoice prepared by the admin can be searched and selected from the dropdown menu. Under Shipping & Tracking, the Courier Name, Tracking website url, and tracking number should be changed so that the admin can enter it. In addition, the Order ID and direct order tracking link have been updated so that they can be copied Must. Add a button that includes a direct link to view the details of the order on the website. Add a button that makes it easy to connect to WhatsApp from the number provided by the customer below.
+
+Customer order Name, Phone, Business Name, Email, Address, Description, payment proof (here the invoice added by the admin or the auto invoice generated if an order is placed in the store, both should have a View or Download option. Another thing is an Attached file option (use superbase or related secure option) and Payment Proof (PNG, PDF Or JPG) and additional Notes)
+
+If you want to change anything after placing an order, you can enable the access required to edit it from the admin side. (Invoice customer cannot edit and can add a new file at any time.
+
+Add the facility to place an order even under Place Order without selecting an item after going to Order Now.
+
+New add section for admin panel
+
+1. Clients - Manage your Saved client database (Add new option)
+2. Invoices - Create creative Invoice for Printbloom with second page bank details and terms and conditions (bank details and terms update for admin panel settings) download pdf with multiple page merged single pdf)
+3. Projects- New Project add option - Client name (search option for saved client database) Project name, Description, Project Image Attaches option-JPG, PNG, PDF or other editing file Status, Deadline, Total Amount, Paid Amount (advanced) Finally marked select invoice or create invoice option, update financial section but no duplications
+4. Reports
+5. Website Editor option (manage all and SEO
+6. Settings (Business Information, Business Logo, Business Name, Owner Name, Business Tagline, Email, Phone, Business Address, Facebook url, TikTok Url, Instagram, Bank details section (Bank logo (logo size add user friendly), Bank name, Account holder name, Account Number, Branch/Swift Code and multiple option- Shipping setting use invoice (First 1 KG Rate, Extra Per KG Rate (Rs.), Invoice Settings select currency option, Appearance - Customize the look and feel of the application, Terms & Conditions) - Customize the terms shown on invoices. Leave empty to use defaults. Website Pages Content - Edit About Us, Terms & Conditions, and Privacy Policy pages, and data backup option. and upload data option.
+
+Website home page Realtime Happy cliet Count(data for client database) Product types (data for listed item count)
+
+and five start review tab and Delivered project count realtime update for marked online order complete.
+
+and website add to bank details section.
+
+Make the website a little more simple clear pink color theme and user friendly smart way. Make it special notice popup. And if the original home page has a fluid animation, it would be good, so that when you move the mouse tick here and there, it feels like when you touch it on a mobile phone.
